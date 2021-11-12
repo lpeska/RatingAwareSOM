@@ -12,5 +12,5 @@ Self-organizing maps (SOM) are one of the prominent paradigms for 2D data visual
 
 - /SOM_img: visualizations of the generated SOMs. This folder contains figures for both color-sorting and VBS tasks
 - /Figures: high-resolution figures utilized in the paper
-- /Results: pickles of the raw results. For space reasons, only the color sorting is provided; for VBS raw results please contact the authors. For loading and usage please see the Python notebooks)
+- /Results: pickles of the raw results. For space reasons, only the color sorting is provided; for VBS raw results please contact the authors. For loading and usage please see the Python notebooks
 - .ipython notebooks implementing Rating-aware SOM, evaluation metrics and visualization procedures
